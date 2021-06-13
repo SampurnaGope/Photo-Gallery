@@ -1,0 +1,79 @@
+.link {
+    list-style: none;
+
+    color: black;
+
+    padding-right: 25px;
+    padding-left: 33px;
+
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+
+
+}
+
+.link:hover {
+    background-color:black;
+    text-decoration: underline;
+}
+
+body {
+    background: linear-gradient(
+#53c5d9 0%, #C0EFF5 50%, #fcffff 100% );
+    text-align: center;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 20px;
+}
+  
+
+   
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+  
+   
+}
+
+
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+
+
+#myCarousel
+{
+    background-color: #131E3A;
+    
+    
+}
+
+#myCarousel img 
+{
+  height:300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p 
+{ margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 30px;
+    
+}
+
+
